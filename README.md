@@ -4,7 +4,7 @@ This folder contains a newspaper or journal style essay arguing for broader adop
 
 ## Contents
 
-- `docs\open_source_automation_essay.md`  
+- `open_source_automation_essay.md`  
   The main essay.
 
 - `README.md`  
@@ -29,8 +29,12 @@ Claims that are not general background are supported by citations in the essay, 
 
 ## Reuse and licensing
 
+If this text is intended for public release, a clear licence avoids ambiguity. Common options include:
+
 - Creative Commons Attribution 4.0 (CC BY 4.0) for wide reuse with attribution.
 - Creative Commons Attribution ShareAlike 4.0 (CC BY SA 4.0) for reciprocity on derivatives.
+
+If the text is intended for private circulation only, omit a licence and treat it as all rights reserved.
 
 ## Suggested citation
 
