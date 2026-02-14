@@ -11,8 +11,8 @@ This repository contains an essay arguing for broader adoption of open source ap
   This file.
 
 - `Licences`
-  Creative Commons Attribution 4.0 (CC BY 4.0)
-  Creative Commons Attribution ShareAlike 4.0 (CC BY SA 4.0)
+  Creative Commons Attribution 4.0 (CC BY 4.0).
+  Creative Commons Attribution ShareAlike 4.0 (CC BY SA 4.0).
 
 ## Summary
 
