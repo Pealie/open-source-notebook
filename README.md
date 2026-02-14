@@ -36,6 +36,6 @@ Claims that are not general background are supported by citations in the essay, 
 - Creative Commons Attribution 4.0 (CC BY 4.0) for wide reuse with attribution.
 - Creative Commons Attribution ShareAlike 4.0 (CC BY SA 4.0) for reciprocity on derivatives.
 
-## Citation
+## Citation (suggested)
 
 Neil Thomson, 'Open source, automation, and social resilience', Markdown essay, 2026.
