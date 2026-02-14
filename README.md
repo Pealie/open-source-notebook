@@ -1,14 +1,18 @@
 # Open source, automation, and social resilience
 
-This folder contains a newspaper or journal style essay arguing for broader adoption of open source approaches, with a focus on the near future rollout of business and industrial automation and the risk of economic disruption.
+This repository contains an essay arguing for broader adoption of open source approaches, with a focus on the near future rollout of business and industrial automation and the risk of economic disruption.
 
 ## Contents
 
-- `open_source_automation_essay.md`  
+- `docs/open_source_automation_essay.md`  
   The main essay.
 
 - `README.md`  
   This file.
+
+- `Licences`
+  Creative Commons Attribution 4.0 (CC BY 4.0)
+  Creative Commons Attribution ShareAlike 4.0 (CC BY SA 4.0)
 
 ## Summary
 
@@ -29,13 +33,9 @@ Claims that are not general background are supported by citations in the essay, 
 
 ## Reuse and licensing
 
-If this text is intended for public release, a clear licence avoids ambiguity. Common options include:
-
 - Creative Commons Attribution 4.0 (CC BY 4.0) for wide reuse with attribution.
 - Creative Commons Attribution ShareAlike 4.0 (CC BY SA 4.0) for reciprocity on derivatives.
 
-If the text is intended for private circulation only, omit a licence and treat it as all rights reserved.
-
-## Suggested citation
+## Citation
 
 Neil Thomson, 'Open source, automation, and social resilience', Markdown essay, 2026.
