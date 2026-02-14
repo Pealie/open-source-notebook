@@ -10,7 +10,7 @@ This repository contains an essay arguing for broader adoption of open source ap
 - `README.md`  
   This file.
 
-- `Licences`
+- `Licences`  
   Creative Commons Attribution 4.0 (CC BY 4.0).
   Creative Commons Attribution ShareAlike 4.0 (CC BY SA 4.0).
 
