@@ -28,19 +28,10 @@ Notes:
 
 A practical attribution line for downstream reuse:
 
-- **Title**: <WORK TITLE>
-- **Author**: <AUTHOR NAME>
-- **Source**: <REPOSITORY URL / CANONICAL URL>
+- **Title**: <Open source as a public strategy in the age of automation>
+- **Author**: <Neil Thomson>
+- **Source**: <https://github.com/Pealie/open-systems-notebook/tree/main/docs>
 - **Licence**: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 - **Changes**: <e.g. 'Edited for length', 'Translated', 'Figures modified'>
 
-Example (fill in real values):
-
-> '<WORK TITLE>' by <AUTHOR NAME> is licensed under CC BY 4.0. Source: <URL>. Changes: <IF ANY>.
-
-## Applying this licence in a repository
-
-Common placements:
-- Keep this file at repository root as `LICENSE-CC-BY-4.0.md` (or copy the notice into `LICENSE.md` if a single licence file is preferred).
-- Include a short line in `README.md` under 'Reuse and licensing' that matches the licence notice above.
 
