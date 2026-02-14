@@ -14,6 +14,10 @@ This repository contains an essay arguing for broader adoption of open source ap
   Creative Commons Attribution 4.0 (CC BY 4.0).
   Creative Commons Attribution ShareAlike 4.0 (CC BY SA 4.0).
 
+- `Licences`  
+  Creative Commons Attribution 4.0 (CC BY 4.0).
+  Creative Commons Attribution ShareAlike 4.0 (CC BY SA 4.0).
+
 ## Summary
 
 The essay makes the case that open source is not only a software development model but a governance and market design choice. Under conditions of rapid automation, open source can help societies reduce dependence on single vendors, strengthen supply chain security, widen access to productive tooling, and increase the pace of diffusion for safe, auditable methods.
