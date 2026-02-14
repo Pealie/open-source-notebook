@@ -28,8 +28,8 @@ Notes:
 
 A practical attribution line for downstream reuse:
 
-- **Title**: <Open source as a public strategy in the age of automation>
-- **Author**: <Neil Thomson>
+- **Title**: Open source as a public strategy in the age of automation
+- **Author**: Neil Thomson
 - **Source**: <https://github.com/Pealie/open-systems-notebook/tree/main/docs>
 - **Licence**: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 - **Changes**: <e.g. 'Edited for length', 'Translated', 'Figures modified'>
