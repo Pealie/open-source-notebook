@@ -1,4 +1,4 @@
-**From Brass to Neon to Sunlight: Steampunk, Cyberpunk, Solarpunk and the Future After Hope**
+**From Brass to Neon to Sunlight: Steampunk, Cyberpunk, Solarpunk and the Future**
 
 Steampunk, cyberpunk and solarpunk are often treated as adjacent labels within speculative fiction, but they can also be understood as a sequence of cultural moods, each registering a different historical experience of technology. They are not merely styles of costume, architecture or visual design, though each possesses a recognisable aesthetic surface. More deeply, they are literary modes through which successive generations have imagined the relation between power, machinery, labour, the body and the future. Read in sequence, they form a revealing arc: from the re-enchanted machine of industrial modernity, through the disillusioned circuitry of late capitalism, to the ecologically reparative horizon of post-carbon imagination.
 
@@ -35,3 +35,4 @@ The movement from steampunk to cyberpunk to solarpunk is therefore not best unde
 What unites all these modes is their concern with permission. Steampunk grants permission to romanticise the machine, though often under the shadow of critique. Cyberpunk grants permission to distrust the machine and the systems it serves. Solarpunk grants permission to imagine that another relation to technology might still be possible. The next genre, whatever name it eventually acquires, may need to grant permission for something more difficult still: to believe that truth, attention and interior freedom remain worth fighting for in an age of total mediation.
 
 In that sense, the future after solarpunk may not be a brighter utopia or a darker dystopia, but a literature of contested reality. Its central question will not simply be how we power the world, but how we perceive it, share it and remain answerable to one another within it. That would be a fitting successor to the line that runs from steam to code to sunlight, for it would recognise that the deepest technological struggle ahead may not concern machinery alone, but the conditions under which experience itself remains human.
+
