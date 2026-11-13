@@ -4,8 +4,11 @@ This repository contains an essay arguing for broader adoption of open source ap
 
 ## Contents
 
-- `docs/open_source_automation_essay.md`  
-  The main essay.
+- [Essay, version 2.0 (13 November 2026)](docs/open_source_automation_essay_v2_0_20261113.md)  
+  The updated essay, prepared by Neil Thomson, with numbered citations and references.
+
+- [Original essay](docs/open_source_automation_essay.md)  
+  The original version, retained for reference.
 
 - `README.md`  
   This file.
@@ -38,4 +41,4 @@ Claims that are not general background are supported by citations in the essay, 
 
 ## Citation (suggested)
 
-Neil Thomson, 'Open source, automation, and social resilience', Markdown essay, 2026.
+Neil Thomson, 'Open source as a public strategy in the age of automation', version 2.0, 13 November 2026.
